@@ -1,0 +1,30 @@
+body{
+    background: yellow;
+}
+
+#score{
+    font-size: 23px;
+    margin-left: -300px;
+}
+
+#time{
+    font-size: 23px;
+    float: right;
+    margin-right: 90px;
+}
+
+#sketch_name
+{
+    color: red;
+    font-size: large;
+}
+
+#confidence{
+    color:blue;
+    font-size:large;
+}
+
+#label{
+    color:orchid;
+    font-size: large;
+}
